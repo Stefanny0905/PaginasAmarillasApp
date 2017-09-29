@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_website"
+        android:title="Website"
+        android:icon="@drawable/ic_menu_website" />
+
+    <item
+        android:id="@+id/menu_email"
+        android:title="Email"
+        android:icon="@drawable/ic_menu_email" />
+
+    <item
+        android:id="@+id/menu_sms"
+        android:title="SMS"
+        android:icon="@drawable/ic_menu_sms"
+        />
+
+    <item
+        android:id="@+id/menu_compartir"
+        android:title="Compartir"
+        android:icon="@android:drawable/ic_menu_share" />
+
+    <item
+        android:id="@+id/menu_llamar"
+        android:title="Llamar"
+        android:icon="@android:drawable/ic_menu_call" />
+
+</menu>
